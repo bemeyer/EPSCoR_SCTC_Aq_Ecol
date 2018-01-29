@@ -1,9 +1,0 @@
-name: "EPSCoR-SCTC-Aquatic-Ecology"
-output_dir: "."
-navbar:
-  title: "EPSCoR SCTC Aquatic Ecology"
-  left:
-    - text: "Home"
-      href: index.html
-    - text: "About Me"
-      href: about.html
